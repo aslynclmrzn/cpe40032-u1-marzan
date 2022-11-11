@@ -2,5 +2,5 @@
 <h3 align="center"> 🠻 ᴄʟɪᴄᴋ ʜᴇʀᴇ 🠻 </h3> 
 <h3 align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=LSTHHiwCHV4
 " target="_blank"><img src="thumbnail.png" 
-alt="ytube" width="600" height="400" border="10" /></a>
+alt="ytube" width="600" height="360" border="10" /></a>
 </h3> 
